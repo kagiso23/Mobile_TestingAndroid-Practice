@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19656" started-at="2020-10-19T22:59:11 CAT" finished-at="2020-10-19T22:59:30 CAT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19656" started-at="2020-10-19T22:59:11 CAT" finished-at="2020-10-19T22:59:30 CAT">
+      <class name="Test_Android.Testing_MusicPlayer">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test_Android.Testing_MusicPlayer@33f88ab]" name="setUp" is-config="true" duration-ms="14411" started-at="2020-10-19T22:59:11 CAT" finished-at="2020-10-19T22:59:25 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCal()[pri:0, instance:Test_Android.Testing_MusicPlayer@33f88ab]" name="testCal" duration-ms="4707" started-at="2020-10-19T22:59:25 CAT" finished-at="2020-10-19T22:59:30 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCal -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Test_Android.Testing_MusicPlayer@33f88ab]" name="teardown" is-config="true" duration-ms="491" started-at="2020-10-19T22:59:30 CAT" finished-at="2020-10-19T22:59:30 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Test_Android.Testing_MusicPlayer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
