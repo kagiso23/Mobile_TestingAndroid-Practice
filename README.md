@@ -1,4 +1,4 @@
-# Mobile_TestingAndroid-
+# Mobile_TestingAndroid
 Testing the APK (Music Player)on android platform 
 Using the following tools 
 - Installed eclipse, Testng and Appium
